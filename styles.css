@@ -1,5 +1,9 @@
 body {
-  background-color: #6E85B7;
+  background-color: #A5BECC;
+  color: #293462;
+  font-family: "Garamond";
+  font-size: 18px;
+  font-weight: bold;
 }
 
 hr {
@@ -12,13 +16,13 @@ hr {
 }
 
 h1 {
-  color: #003865;
+  color: #293462;
 }
 
 h2 {
-  color: #003865;
+  color: #293462;
 }
 
 h3 {
-  color: #003865;
+  color: #293462;
 }
