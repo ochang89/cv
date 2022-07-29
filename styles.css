@@ -4,7 +4,9 @@ body {
   font-family: "Garamond";
   font-size: 18px;
   font-weight: bold;
+  text-align: center;
 }
+
 
 hr {
   background-color: none;
@@ -19,6 +21,11 @@ img {
   border-radius: 50%;
 }
 
+thead {
+  text-align: center;
+  margin: 0px auto;
+}
+
 h1 {
   color: #293462;
 }
@@ -29,4 +36,23 @@ h2 {
 
 h3 {
   color: #293462;
+}
+
+div {
+  margin: 0px auto;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}
+
+table {
+  margin: 0px auto;
+}
+
+.intro {
+  font-size: 18px;
 }
